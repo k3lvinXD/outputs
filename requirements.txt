@@ -2,8 +2,4 @@ Flask>=3.0,<4.0
 sympy>=1.12,<2.0
 numpy>=1.26,<3.0
 scipy>=1.11,<2.0
-<<<<<<< HEAD
 gunicorn>=23,<24
-=======
-gunicorn>=23,<24
->>>>>>> ad15077da30a12be29747a1e8a251e7aae07b008
